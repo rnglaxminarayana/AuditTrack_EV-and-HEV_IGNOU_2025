@@ -1,2 +1,2 @@
-# AuditTrack_EV-and-HEV_IGNOU_2025
-A 12-week course on " Introduction to Electric and Hybrid Electric Vehicles" in SWAYAM platform offered by IGNOU. 
+# AuditTrack_Charging_Infrastructure_NPTEL_2025
+A 12-week course on "Charging Infrastructure in Electric Vehicles" in SWAYAM platform offered by NPTEL. 
